@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome to the profile of anonyme012 👋.
 
-<!--
-**anonyme012/anonyme012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about programming.
+🧑‍🔬 Very intersted in physics.
+🤖 Interested in AI and deep learning.
+🔐 Huge fan of the blockchain technologies : it's the future of the Internet.
+🏴‍☠️ Aspiring pentester.
 
-Here are some ideas to get you started:
+⏰ I'm currently working on :
+- a new blockchain for a better Internet
+- a web platform to learn programming and cybersecurity
+🛟 If you want to collaborate, contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me : MP me on Discord. My username : ```nil4716```.
+- 😄 Pronouns: He / Him / anonyme012 / Nil
+
+You can contact me regarding any relevant topic, to have a nice and friendly discussion.
