@@ -12,6 +12,6 @@
 🛟 If you want to collaborate, contact me.<br>
 <br>
 - 📫 How to reach me : MP me on Discord. My username : "nil4716".<br>
-- 😄 Pronouns: He / Him / anonyme012 / Nil.<br>
+- 😄 Pronouns : He / Him / anonyme012 / Nil.<br>
 <br>
 You can contact me regarding any relevant topic, to have a nice and friendly discussion.
