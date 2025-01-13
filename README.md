@@ -1,6 +1,6 @@
 ## Welcome to the profile of anonyme012 👋.
-<br>
-### Fastly, I'm a coder by day, hacker by night.
+Fastly, I'm a coder by day, hacker by night.
+<br><br>
 👨‍💻 Passionate about programming.<br>
 🧑‍🔬 Very intersted in physics.<br>
 🤖 Interested in AI and deep learning.<br>
@@ -13,7 +13,7 @@ I'm currently study : <br>
 <br>
 ⏰ I'm currently working on : <br>
 👉 a new blockchain for a better Internet<br>
-👉 web platform to learn programming and cybersecurity<br><br>
+👉 website about programming, cybersecurity and cryptogaphy<br><br>
 🛟 If you want to collaborate, contact me.<br>
 <br>
 - 📫 How to reach me : MP me on Discord. My username : "nil4716".<br>
@@ -21,4 +21,4 @@ I'm currently study : <br>
 <br>
 You can contact me regarding any relevant topic, to have a nice and friendly discussion.
 <br><br>
-Always remember : ***with great hacking power comes great responsability !***
+Always remember : with great hacking power comes great responsability !
