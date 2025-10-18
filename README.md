@@ -16,7 +16,7 @@ Godot<br>
 🛟 If you want to collaborate, contact me.<br>
 <br>
 - 📫 How to reach me : DM me on Discord. My username : `0xnilx0`.<br>
-- 😄 Pronouns : He / Him / anonyme012 / Nil.<br>
+- 😄 Pronouns : He / Him / Nil.<br>
 <br>
 You can contact me regarding any relevant topic, to have a nice and friendly discussion.
 <br><br>
